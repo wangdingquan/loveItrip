@@ -1,0 +1,9 @@
+cn\itrip\controller\HotelListController.class
+cn\itrip\test\TestDao.class
+cn\itrip\dao\impl\ItripHotelDaoImpl.class
+cn\itrip\service\SearchHotelService.class
+cn\itrip\test\Test.class
+cn\itrip\service\SerachHotelServiceImpl.class
+cn\itrip\beans\vo\hotel\ItripHotelVO.class
+cn\itrip\dao\BaseDao.class
+cn\itrip\dao\ItripHotelDao.class
